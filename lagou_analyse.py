@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf8 -*-)
+
 import os
 import pandas as pd
 #from pandas import DataFrame
@@ -216,5 +219,6 @@ if __name__ == '__main__':
     # main("霸王别姬", "stopwords_3.txt", "霸王别姬.jpg" )
     # main("杀死一只知更鸟", "stopwords_3.txt", "霸王别姬.jpg" )
     #main("lagou-广州-Python", "stopwords_4.txt", "python_logo.jpg" )
-    main("lagou-全国-Python", "stopwords_4.txt", "python_logo.jpg" )
+    main("lagou--Python", "stopwords_4.txt", "python_logo.jpg" )
+    #main("lagou-全国-Python", "stopwords_4.txt", "python_logo.jpg" )
     #main("lagou-广州-测试", "stopwords_4.txt", "xuzheng.jpg")
